@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey, I'm Danial. 👋
+
+I'm a software developer based in Stuttgart & Nuremberg, Finland. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeshete&theme=radical&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danialeshete&theme=radical&show_icons=true&repo=thesis-brainmap)](https://github.com/anuraghazra/github-readme-stats)
