@@ -1,6 +1,6 @@
 ### Hey, I'm Danial. 👋
 
-I'm a software developer based in Stuttgart & Nuremberg, Finland. 
+I'm a software developer based in Stuttgart & Nuremberg, Germany. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeshete&theme=radical&show_icons=true)
 
