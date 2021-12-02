@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeshete&theme=radical&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danialeshete&theme=radical&show_icons=true&repo=thesis-brainmap)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialeshete&theme=radical&show_icons=true&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialeshete&theme=radical&show_icons=true&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
