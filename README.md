@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">I'm a software developer based in Stuttgart & Nuremberg, Germany.</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeshete&theme=radical&show_icons=true)
+
 
 <p align="left">
   <a href="https://linkedin.com/in/danialeshete" target="blank"><img align="center"
@@ -51,6 +51,9 @@
     rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>-->
 </p> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeshete&show_icons=true&theme=radical)
+
 
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=danialeshete&theme=radical&show_icons=true&locale=en&layout=compact&hide=css"
