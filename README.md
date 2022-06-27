@@ -54,7 +54,7 @@
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=danialeshete&theme=radical&show_icons=true&locale=en&layout=compact&hide=css"
     alt="danialeshete" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danialeshete&" alt="danialeshete" />
+
 </p>
 
 
