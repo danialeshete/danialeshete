@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">I'm a software engineer based in Stuttgart & Nuremberg, Germany.</h3>
-# 👨🏾‍💻 About me
--   🎓CompSci student
--   👨🏾‍💻working student at <a href="https://sprinteins.com">SprintEins GmbH</a>
+<h3> 👨🏾‍💻 About me </h3>
+<ul>
+  <li>🎓CompSci student </li>
+  <li>👨🏾‍💻working student at <a href="https://sprinteins.com">SprintEins GmbH</a></li>
+  </ul>
+
 
 ![MacOS User](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 <br /><br />
