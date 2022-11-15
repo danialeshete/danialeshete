@@ -5,6 +5,9 @@
   <a href="https://linkedin.com/in/danialeshete" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="danialeshete" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/Danial_Eshete/cv" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/47521900/201901676-611c73cf-4d7e-424d-84aa-a08be0ee2358.png"
+      alt="danialeshete" height="30" width="40" /></a>
 <!-- </p <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
