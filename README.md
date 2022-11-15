@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">I'm a software developer based in Stuttgart & Nuremberg, Germany.</h3>
+<h3 align="center">I'm a software engineer based in Stuttgart & Nuremberg, Germany.</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/danialeshete" target="blank"><img align="center"
