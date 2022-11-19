@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">I'm a software engineer based in Stuttgart & Nuremberg, Germany.</h3>
+<h4 align="center">I'm a Software Engineer based in Stuttgart & Nuremberg, Germany.</h4>
 <h3> 👨🏾‍💻 About me </h3>
 <ul>
-  <li>🎓CompSci student </li>
-  <li>👨🏾‍💻working student at <a href="https://sprinteins.com">SprintEins GmbH</a></li>
+  <li>🎓 CompSci student </li>
+  <li>👨🏾‍💻 Working student at <a href="https://sprinteins.com">SprintEins GmbH</a></li>
   </ul>
 
 
